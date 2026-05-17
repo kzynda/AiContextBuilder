@@ -1,0 +1,7 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+.idea/.idea.AiContextBuilder/.idea/workspace.xml
+.idea/.idea.AiContextBuilder/.idea/projectSettingsUpdater.xml
